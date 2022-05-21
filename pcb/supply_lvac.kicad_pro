@@ -385,9 +385,7 @@
           "/VAC",
           "/VREC+",
           "/VREC-",
-          "GND",
-          "Net-(D6-Pad1)",
-          "Net-(D7-Pad2)"
+          "GND"
         ],
         "pcb_color": "rgba(0, 0, 0, 0.000)",
         "schematic_color": "rgba(0, 0, 0, 0.000)",
